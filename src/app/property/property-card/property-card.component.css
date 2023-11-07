@@ -5,16 +5,16 @@
     transform: scale(1.2, 1.2);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
-    height: 120px;
-    width: 120px;
+    height: 220px;
+    width: 220px;
     opacity: 0.5;
 }
 .card img {
     transform: scale(1, 1);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
-    height: 120px;
-    width: 120px;
+    height: 220px;
+    width: 220px;
 }
 .member-icons {
     position: absolute;
