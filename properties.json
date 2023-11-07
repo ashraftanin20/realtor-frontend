@@ -3,42 +3,79 @@
 [
     {
       "Id": 1,
+      "SellRent": 1,
       "Name": "Birla Hause",
       "Type": "Hause",
-      "Price": 120000
+      "Price": 120000,
+      "Image": "prop1"
     },
     {
       "Id": 2,
+      "SellRent": 1,
       "Name": "Summer Villa",
       "Type": "Villa",
-      "Price": 130000
+      "Price": 130000,
+      "Image": "prop2"
     },
     {
       "Id": 3,
+      "SellRent": 1,
       "Name": "Lovely Apartment",
       "Type": "Flat",
-      "Price": 120000
-    },
-    {
-      "Id": 1,
-      "Name": "3 Rooms Apartment",
-      "Type": "Flat",
-      "Price": 150000
+      "Price": 120000,
+      "Image": "prop3"
     },
     {
       "Id": 4,
-      "Name": "Busniss Office",
+      "SellRent": 1,
+      "Name": "3 Rooms Apartment",
       "Type": "Flat",
-      "Price": 120000
+      "Price": 150000,
+      "Image": "prop4"
     },
     {
       "Id": 5,
-      "Name": "Shop in the Center",
-      "Type": "Shop",
-      "Price": 130000
+      "SellRent": 1,
+      "Name": "Busniss Office",
+      "Type": "Flat",
+      "Price": 120000,
+      "Image": "prop5"
     },
     {
       "Id": 6,
+      "SellRent": 1,
+      "Name": "Shop in the Center",
+      "Type": "Shop",
+      "Price": 130000,
+      "Image": "prop6"
+    },
+    {
+      "Id": 7,
+      "SellRent": 1,
+      "Name": "Stock Passage",
+      "Type": "Stock",
+      "Price": 180000,
+      "Image": "prop7"
+    },
+    {
+      "Id": 8,
+      "SellRent": 1,
+      "Name": "Stock Passage",
+      "Type": "Stock",
+      "Price": 180000,
+      "Image": "prop8"
+    },
+    {
+      "Id": 9,
+      "SellRent": 1,
+      "Name": "Stock Passage",
+      "Type": "Stock",
+      "Price": 180000,
+      "Image": "prop9"
+    },
+    {
+      "Id": 10,
+      "SellRent": 1,
       "Name": "Stock Passage",
       "Type": "Stock",
       "Price": 180000
