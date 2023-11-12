@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PropertyListComponent } from '../property/property-list/property-list.component';
 
 @Component({
   selector: 'app-nav-bar',

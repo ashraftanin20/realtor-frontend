@@ -10,6 +10,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { HausingService } from './services/hausing.service';
 import { AddPropertyComponent } from './property/add-property/add-property.component';
 import { PropertyDetailComponent } from './property/property-detail/property-detail.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [	
@@ -24,6 +25,7 @@ import { PropertyDetailComponent } from './property/property-detail/property-det
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    FormsModule
   ],
   providers: [
     HausingService
