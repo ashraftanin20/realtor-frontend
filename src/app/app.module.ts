@@ -10,7 +10,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { HausingService } from './services/hausing.service';
 import { AddPropertyComponent } from './property/add-property/add-property.component';
 import { PropertyDetailComponent } from './property/property-detail/property-detail.component';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { UserLoginComponent } from './user/user-login/user-login.component';
+import { UserRegisterComponent } from './user/user-register/user-register.component';
 
 @NgModule({
   declarations: [	
@@ -19,13 +21,16 @@ import { FormsModule } from '@angular/forms';
     PropertyListComponent,
     AddPropertyComponent,
     NavBarComponent,
-    PropertyDetailComponent
+    PropertyDetailComponent,
+    UserLoginComponent,
+    UserRegisterComponent
    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [
     HausingService
