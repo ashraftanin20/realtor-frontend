@@ -14,4 +14,5 @@ export class HausingService {
       const data = await fetch(this.url);
       return await data.json();
   }
+
 }

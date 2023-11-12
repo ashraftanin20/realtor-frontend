@@ -51,7 +51,7 @@
     },
     {
       "Id": 7,
-      "SellRent": 1,
+      "SellRent": 2,
       "Name": "Stock Passage",
       "Type": "Stock",
       "Price": 180000,
@@ -75,7 +75,7 @@
     },
     {
       "Id": 10,
-      "SellRent": 1,
+      "SellRent": 2,
       "Name": "Stock Passage",
       "Type": "Stock",
       "Price": 180000
